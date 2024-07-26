@@ -160,3 +160,7 @@ main{
 	width: 940px;
 	margin: 0 auto;
 }
+
+form{
+	margin: 40px 0;
+}
